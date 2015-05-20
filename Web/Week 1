@@ -5,5 +5,5 @@ Basic 1: It says a bit of HTML knowledge is required. So, if you look carefully 
 
 Basic 2: Since Network Security Sam forgot to upload the password file, a blank password field suffices to complete the mission.
 
-Basic 3: This time Sam uploaded the password file in the form of a PHP file(but without encrypting it).Opening that file gives the answer.
+Basic 3: This time Sam uploaded the password file in the form of a PHP file(but without encrypting it). This PHP file can be found in the page source. Opening that file gives the answer.
 

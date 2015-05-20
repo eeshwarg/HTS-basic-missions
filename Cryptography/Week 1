@@ -1,3 +1,4 @@
+//To find the resultant string when 2 strings of equal lengths are XORed
 #include<stdio.h>
 #include<string.h>
 main()
